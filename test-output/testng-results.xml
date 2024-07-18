@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-18T20:05:08 IST" name="Suite" finished-at="2024-07-18T20:06:14 IST" duration-ms="66632">
+    <groups>
+    </groups>
+    <test started-at="2024-07-18T20:05:08 IST" name="Test" finished-at="2024-07-18T20:06:14 IST" duration-ms="66632">
+      <class name="Assignment1.Amazon_Using_Maven.TestCase3">
+        <test-method signature="Amazon_searchresult_page()[pri:0, instance:Assignment1.Amazon_Using_Maven.TestCase3@6392827e]" started-at="2024-07-18T20:05:22 IST" name="Amazon_searchresult_page" finished-at="2024-07-18T20:05:36 IST" duration-ms="14682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amazon_searchresult_page -->
+      </class> <!-- Assignment1.Amazon_Using_Maven.TestCase3 -->
+      <class name="Assignment1.Amazon_Using_Maven.TestCase4">
+        <test-method signature="Amazon_product_Page()[pri:0, instance:Assignment1.Amazon_Using_Maven.TestCase4@2ed2d9cb]" started-at="2024-07-18T20:05:36 IST" name="Amazon_product_Page" finished-at="2024-07-18T20:05:52 IST" duration-ms="15395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amazon_product_Page -->
+      </class> <!-- Assignment1.Amazon_Using_Maven.TestCase4 -->
+      <class name="Assignment1.Amazon_Using_Maven.TestCase1">
+        <test-method signature="Login_amazon()[pri:0, instance:Assignment1.Amazon_Using_Maven.TestCase1@1da2cb77]" started-at="2024-07-18T20:05:08 IST" name="Login_amazon" finished-at="2024-07-18T20:05:13 IST" duration-ms="4965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_amazon -->
+      </class> <!-- Assignment1.Amazon_Using_Maven.TestCase1 -->
+      <class name="Assignment1.Amazon_Using_Maven.TestCase2">
+        <test-method signature="Login_amazon_Home_Page()[pri:0, instance:Assignment1.Amazon_Using_Maven.TestCase2@1b2abca6]" started-at="2024-07-18T20:05:13 IST" name="Login_amazon_Home_Page" finished-at="2024-07-18T20:05:22 IST" duration-ms="8970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_amazon_Home_Page -->
+      </class> <!-- Assignment1.Amazon_Using_Maven.TestCase2 -->
+      <class name="Assignment1.Amazon_Using_Maven.TestCase5">
+        <test-method signature="Amazon_CheckOut_page()[pri:0, instance:Assignment1.Amazon_Using_Maven.TestCase5@d5b810e]" started-at="2024-07-18T20:05:52 IST" name="Amazon_CheckOut_page" finished-at="2024-07-18T20:06:14 IST" duration-ms="22594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amazon_CheckOut_page -->
+      </class> <!-- Assignment1.Amazon_Using_Maven.TestCase5 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
